@@ -6,3 +6,6 @@ spriteList[0] = spr_player
 spriteList[1] = spr_playerdead
 startx = x
 starty = y
+
+global.playerstartx = startx
+global.playerstarty = starty

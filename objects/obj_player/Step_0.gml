@@ -29,4 +29,7 @@ if alive
 		instance_create_layer(x, y,"Instances", obj_playerdead)
 		instance_destroy();
 	}
+	
+	if keyboard_check_pressed(ord("Q"))
+		instance_destroy(obj_playerdead);
 }
