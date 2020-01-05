@@ -293,6 +293,14 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
+        },
+        {
+            "Key": "f45e279a-c663-4db1-aa24-b313ac209b89",
+            "Value": {
+                "id": "141aed20-e0c8-4f08-b59f-6fdb59a2be36",
+                "resourcePath": "rooms\\EndRoom\\EndRoom.yy",
+                "resourceType": "GMRoom"
+            }
         }
     ],
     "script_order": [

@@ -9,3 +9,9 @@ starty = y
 
 global.playerstartx = startx
 global.playerstarty = starty
+
+//input
+key_up = ord("W")
+key_left = ord("A")
+//key_down = ord("S")
+key_right = ord("D")
