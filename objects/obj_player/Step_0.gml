@@ -15,7 +15,7 @@ if alive
 	    gravity = 0; //no need for gravity on ground
 
 	    //we are on ground so we can check if we need to jump
-	    if( keyboard_check_pressed( key_up )){
+	    if( keyboard_check_pressed(key_up) or keyboard_check_pressed(vk_space)){
 	        vspeed = -player_jumpspeed;
 	    }
 	}

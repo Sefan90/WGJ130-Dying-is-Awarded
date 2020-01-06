@@ -15,3 +15,5 @@ key_up = ord("W")
 key_left = ord("A")
 //key_down = ord("S")
 key_right = ord("D")
+
+color = make_colour_hsv(random(255), 255, random(255));
